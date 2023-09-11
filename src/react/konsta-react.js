@@ -50,11 +50,6 @@ import Sheet from './components/Sheet.jsx';
 import Stepper from './components/Stepper.jsx';
 import Tabbar from './components/Tabbar.jsx';
 import TabbarLink from './components/TabbarLink.jsx';
-import Table from './components/Table.jsx';
-import TableBody from './components/TableBody.jsx';
-import TableCell from './components/TableCell.jsx';
-import TableHead from './components/TableHead.jsx';
-import TableRow from './components/TableRow.jsx';
 import Toast from './components/Toast.jsx';
 import Toggle from './components/Toggle.jsx';
 import Toolbar from './components/Toolbar.jsx';
@@ -121,11 +116,6 @@ export {
   Stepper,
   Tabbar,
   TabbarLink,
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableRow,
   Toast,
   Toggle,
   Toolbar,
